@@ -1,0 +1,278 @@
+.red_line{
+  width: 100%;
+  height: 5PX;
+  background-color: red;
+  float: left;
+
+}
+#search{
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+
+nav ul li{
+  
+  color: white;
+  padding: 10px;
+  list-style-image: none;
+  display: inline;
+  
+}
+nav ul li a{
+  color: white;
+  text-decoration: none;
+  
+}
+.cantianer{
+  width: 1200px;
+  margin: 0 auto;
+}
+header{
+  width: 100%;
+  height: 200px;
+  background-color: red;
+  float: left;
+}
+header img{
+  width: 100%;
+  height: 200px;
+}
+
+
+nav{
+  width: 100%;
+  height: 30px;
+  background-color: green;
+  float: left;
+
+}
+nav{
+  width: 100;
+  height: 30px;
+  background-color: royalblue;
+  float: left;
+}
+
+.slider{
+  width: 100%;
+  height: 350px;
+  background-color: white;
+  float: left;
+
+}
+
+.slider .left img{
+  width: 100%;
+  height: 175px;
+  float: left;
+}
+.slider .right img{
+  width: 100%;
+  height: 350px;
+  left: right;
+}
+.slider .left{
+  width: 25%;
+  height: 350px;
+  background-color: sienna;
+  float: left;
+
+
+}
+
+.slider .left .Ahmad{
+  width: 100%;
+  height: 175px;
+  background-color: rgb(255, 255, 255);
+  float: left;
+
+}
+.slider .left .Ahmad img{
+  width: 100%;
+  height: 175px;
+  float: left;
+}
+.slider .left .Ali{
+  width: 100%;
+  height: 175px;
+  background-color: teal;
+  float: left;
+}
+.slider .left .Ali .one{
+  width: 50%;
+  height: 175px;
+  background-color: white;
+  float: left;
+}
+.slider .left .Ali .one img{
+  width: 99%;
+  height: 175;
+  float: left;
+}
+.slider .left .Ali .two{
+  width: 50%;
+  height: 175px;
+  background-color: white;
+  float: right;
+}
+slider .left .Ali .two img{
+  width: 99%;
+  height: 175px;
+  float: right;
+}
+
+
+
+
+.slider .right{
+  width: 74.5%;
+  height: 350px;
+  background-color: #ebf746;
+  float: right;
+}
+  
+
+aside{
+  width: 25%;
+  height: 975px;
+  background-color: whitesmoke;
+  float: left;
+}
+aside h1{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 0;
+  
+}
+aside li{
+  list-style-type: none;
+  margin-left: 7px;
+  font-size: 19px;
+  font-family: Times New Roman;
+  line-height: 46px;
+
+  
+
+}
+aside li a{
+  color: black;
+  text-decoration: none;
+  border-bottom:2px solid black;
+
+
+}
+aside li a:hover{
+  color: red;
+}
+
+
+
+section{
+  width: 74.8%;
+  height: 975px;
+  background-color: white;
+  float: right;
+  margin-top:5px;
+}
+section .one{
+  width: 33.2%;
+  height: 975px;
+  background-color: white;
+  float: left;
+}
+
+section .one h1{
+  text-align: center;
+  color: blue;
+  margin: 0%;
+  border-bottom: 4px solid blue;
+  border-top: 2px solid blue;
+  
+
+}
+
+section .two{
+  width: 33.2%;
+  height: 975px;
+  background-color: white;
+  float: left;
+}
+section .two h1{
+  text-align: center;
+  color: blue;
+  margin: 0%;
+  border-bottom: 4px solid blue;
+  border-top: 2px solid blue;
+  
+
+}
+
+
+section .three{
+  width: 33.2%;
+  height: 975px;
+  background-color: white;
+  float: left;
+}
+section .three h1{
+  text-align: center;
+  color: blue;
+  margin: 0%;
+  border-bottom: 4px solid blue;
+  border-top: 2px solid blue;
+  
+
+}
+section p{
+  font-size: 18px;
+  padding: center;
+  margin: 0%;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+
+
+
+footer{
+  width: 100%;
+  height: 100PX;
+  background-color:white;
+  float: left;
+}
+footer .menu{
+  width: 50%;
+  height: 100px;
+  background-color: black;
+  float: left;
+}
+footer .menu ul li{
+  padding: 10px;
+  list-style-type: none;
+  display: inline;
+}
+footer .menu ul li a{
+  color: white;
+  text-decoration: none;
+}
+footer p{
+  color: white;
+  margin-left: 100px;
+}
+footer .icon{
+  width: 50%;
+  height: 100px;
+  background-color:black;
+  float: right;
+}
+footer .icon ul li {
+ 
+  display: inline;
+  padding: 30px;
+  font-size: 30px;
+}
+footer .icon ul li a{
+  color: white;
+}
